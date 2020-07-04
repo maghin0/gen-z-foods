@@ -1,8 +1,8 @@
 import React from 'react';
 
-import pic1 from '../../images/pic01.jpg';
-import pic2 from '../../images/pic02.jpg';
-import pic3 from '../../images/pic03.jpg';
+import pic1 from '../../images/pic01.png';
+import pic2 from '../../images/pic02.png';
+import pic3 from '../../images/pic03.png';
 
 import Feature from './Feature';
 
@@ -11,8 +11,8 @@ const Features = () => {
     {
       href: '/#',
       image: pic1,
-      heading: 'Sed ipsum dolor',
-      description: 'Phasellus convallis elit id ullamcorper pulvinar. Duis aliquam turpis mauris, eu ultricies erat malesuada quis. Aliquam dapibus.',
+      heading: 'Take orders from Facebook',
+      description: 'Engage and monetize your Facebook followers by allowing them to order directly on your Facebook page. Create an online ordering opportunity where your customers spend time.',
       to: {
         href: '/generic',
         label: 'Learn more',
@@ -21,8 +21,8 @@ const Features = () => {
     {
       href: '/#',
       image: pic2,
-      heading: 'Feugiat consequat',
-      description: 'Phasellus convallis elit id ullamcorper pulvinar. Duis aliquam turpis mauris, eu ultricies erat malesuada quis. Aliquam dapibus.',
+      heading: 'Take table reservations',
+      description: 'With our table booking system, you can allow your clients to book a table and also order food ahead if they so wish. Now the food waits for the customers, not the other way around. You are offering your customers, the ultimate dining experience by allowing them to order your delicious food in advance.',
       to: {
         href: '/generic',
         label: 'Learn more',
@@ -31,8 +31,8 @@ const Features = () => {
     {
       href: '/#',
       image: pic3,
-      heading: 'Ultricies aliquam',
-      description: 'Phasellus convallis elit id ullamcorper pulvinar. Duis aliquam turpis mauris, eu ultricies erat malesuada quis. Aliquam dapibus.',
+      heading: 'Take orders from your site', 
+      description: 'If you have a website, let your customers order directly from your own custom branded website. Turn your web traffic to loyal customers. We’ll take care of the heavy lifting by setting it all up for you.',
       to: {
         href: '/generic',
         label: 'Learn more',

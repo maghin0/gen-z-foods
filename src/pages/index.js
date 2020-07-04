@@ -8,15 +8,16 @@ import Introduction from '../components/introduction/Introduction';
 import Features     from '../components/features/Features';
 import Capabilities from '../components/capabilities/Capabilities';
 import Contact      from '../components/contact/Contact';
-
+import Video from '../components/video/Video'
 const IndexPage = () =>
   <Layout>
     <Sidebar />
 
     <div id="wrapper">
       <Introduction />
-      <Features />
       <Capabilities />
+      <Video />
+      <Features />
       <Contact />
     </div>
 
