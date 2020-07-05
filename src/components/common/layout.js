@@ -21,8 +21,8 @@ const Layout = ({ children }) => (
         <Helmet
           title={data.site.siteMetadata.title}
           meta={[
-            { name: 'description', content: 'Hyperspace' },
-            { name: 'keywords', content: 'site, web' },
+            { name: 'description', content: 'Gen-z Foods' },
+            { name: 'keywords', content: 'gen-z foods, restaurant, online ordering, ' },
           ]}
         >
           <html lang="en" />
