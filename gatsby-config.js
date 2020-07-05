@@ -5,6 +5,7 @@ module.exports = {
     description:
     'Food ordering online made easy worldwide SaaS',
   author: '@maghin',  
+  siteUrl: 'https://genzfoods.netlify.app',
   },
   plugins: [
     'gatsby-plugin-react-helmet',
