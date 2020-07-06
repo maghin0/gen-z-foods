@@ -7,12 +7,12 @@ const CapabilityList = () => {
     {
       heading: 'Take Unlimited Online Orders',
       description: 'We provide you an online ordering system that works with your website or facebook page! No matter how many online orders you get, you’ll only be charged a flat subscription fee. Your customers can order immediately or schedule an order for later, pick up or delivery.',
-      iconClass: 'fa-code',
+      iconClass: 'fa-shopping-cart',
     },
     {
       heading: 'Take Unlimited Table Reservations',
       description: 'We also provide a table reservation system if your customers want to eat at your restaurant. You can still get as many reservations and still only pay the flat subscription fee',
-      iconClass: 'fa-lock',
+      iconClass: 'fa-tag',
     },
     {
       heading: 'Menu Set Up',
@@ -22,12 +22,12 @@ const CapabilityList = () => {
     {
       heading: 'Detailed Reports',
       description: 'We’ll provide you with analytics on all the orders taken online so you can take business decisions based on relevant data from the reporting dashboard.',
-      iconClass: 'fa-desktop',
+      iconClass: 'fa-bar-chart-o',
     },
     {
       heading: 'Google Business Set Up',
       description: 'We’ll set up a Google Business account for your restaurant so you’re more visible online whenever you’re searched on Google.',
-      iconClass: 'fa-chain',
+      iconClass: 'fa-google',
     },
     {
       heading: 'Flat Subscription, No Commission',

@@ -4,7 +4,7 @@ import { Link } from 'gatsby';
 import CapabilityList from './CapabilityList';
 
 const Capabilities = () =>
-  <section id="two" className="wrapper style3 fade-up">
+  <section id="one" className="wrapper style3 fade-up">
     <div className="inner">
       <h2> Our Story</h2>
       <p>
@@ -19,7 +19,7 @@ Online ordering means less hassle of handling undecided clients via phone and th
       </div>
       <ul className="actions">
         <li>
-          <Link className="button" to="/generic">
+          <Link className="button" href="#two">
             Learn more
           </Link>
         </li>

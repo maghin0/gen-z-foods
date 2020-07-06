@@ -6,9 +6,10 @@ import Tab from './Tab';
 const Sidebar = () => {
   const [tabs] = React.useState([
     { content: 'Welcome', href: 'intro' },
-    { content: 'What we do', href: 'two' },
-    { content: 'Who we are', href: 'one' },
-    { content: 'Get in touch', href: 'three' },
+    { content: 'Our story', href: 'one' },    
+    { content: 'What we do', href: 'three' },
+    { content: 'Who we are', href: 'two' },
+    { content: 'Get in touch', href: 'four' },
   ]);
 
   return (

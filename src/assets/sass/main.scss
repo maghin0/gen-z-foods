@@ -56,3 +56,27 @@
 	@import 'layout/footer';
 	@import 'layout/sidebar';
 	@import 'layout/intro';
+
+	.wrapperlogo {
+	position: relative;
+	padding-bottom: 6em;
+	}
+
+	.logostyle {
+		position: absolute;
+		left: 50%;
+		
+		transform: translateX(-50%);
+		
+	}
+
+	.video {
+		width: 100%;
+		height: 400px;
+		
+
+		@media (min-width: 768px) {
+			width: 100%;
+			height: 800px;
+		}
+	}

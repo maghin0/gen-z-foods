@@ -18,7 +18,7 @@
 				border-radius: 0;
 				display: block;
 				position: relative;
-				width: 25em;
+				width: fit-content;
 
 				img {
 					border-radius: 0;
@@ -40,7 +40,7 @@
 			}
 
 			> .content {
-				@include padding(4em, 5em);
+				@include padding(3em, 3em);
 				@include vendor('display', 'flex');
 				@include vendor('flex-direction', 'column');
 				@include vendor('justify-content', 'center');
