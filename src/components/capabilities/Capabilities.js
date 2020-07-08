@@ -14,7 +14,10 @@ Big portals like Otlob, Uber Eats, and Glovo tell you what to do, keep your clie
 
 Online ordering means less hassle of handling undecided clients via phone and the staff time lost in the process. Moreover, having online ordering monetizes your online presence and opens a whole new market of customers that are online-based. With our online ordering system, the order confirmation is received by your clients in real time. That’s why your clients will love ordering online over and over again.
       </p>
+<br />
+      <h2> Our Services</h2>
       <div className="features">
+      
         <CapabilityList />
       </div>
       <ul className="actions">

@@ -6,7 +6,8 @@ const Video = () =>
     <div className="inner">
       <div className="columns">
         <div className="column">
-    <iframe className="video" src="https://www.youtube.com/embed/SeOaeMmswWU" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+          <h2>How It Works:</h2>
+    <iframe title='How It works video' className="video" src="https://www.youtube.com/embed/MQxf0nOPVOw" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen="true"></iframe>
     </div>
     </div>
     </div>

@@ -3,9 +3,11 @@ import { Link } from 'gatsby';
 
 const Feature = ({href, image, heading, description, to}) =>
   <section>
-    <a href={href} className="image" alt="image">
+    <div  className="image" >
+    <a href={href}alt="image">
       <img src={image} alt="" data-position="center center" />
     </a>
+    </div>
     <div className="content">
       <div className="inner">
         <h2>{heading}</h2>

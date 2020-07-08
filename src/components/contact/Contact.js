@@ -13,7 +13,7 @@ const Contact = () =>
         lacus eget hendrerit bibendum, urna est aliquam sem, sit amet
         imperdiet est velit quis lorem.
       </p>
-      <div className="split style1">
+      <div className="split style5">
         <ContactForm />
         <ContactInformation />
       </div>
