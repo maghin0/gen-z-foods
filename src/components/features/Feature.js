@@ -1,17 +1,18 @@
 import React from 'react';
 import { Link } from 'gatsby';
 
-const Feature = ({href, image, heading, description, to}) =>
+const Feature = ({href, image, simage, heading, description, to}) =>
   <section>
     <div  className="image" >
-    <a href={href}alt="image">
+    
     <picture>
-  <source media="(min-width:650px)" srcset="img_pink_flowers.jpg"/>
-  <source media="(min-width:465px)" srcset="img_white_flower.jpg"/>
-  <img src={image} alt="" data-position="center center" />
+    <a href={href}alt="image">
+  <source media="(min-width:650px)" srcset={image}/>
+  <img src={simage} alt="" data-position="center center"/>
+  </a>
 </picture> 
       
-</a>
+
     </div>
     <div className="content">
       <div className="inner">

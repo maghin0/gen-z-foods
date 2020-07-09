@@ -115,8 +115,10 @@
 			@include breakpoint('<=small') {
 				> .image {
 					
-					height: 80vh;
+					height:38vh;
 					min-height: 15em;
+					width: 100%;
+					overflow: hidden;
 				}
 
 				> .content {
