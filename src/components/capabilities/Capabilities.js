@@ -20,13 +20,7 @@ Online ordering means less hassle of handling undecided clients via phone and th
       
         <CapabilityList />
       </div>
-      <ul className="actions">
-        <li>
-          <Link className="button" href="#two">
-            Learn more
-          </Link>
-        </li>
-      </ul>
+     
     </div>
   </section>
 

@@ -1,14 +1,14 @@
 {
-  "name": "gatsby-starter-hyperspace",
+  "name": "gen-z-foods",
   "version": "0.0.1",
-  "description": "Gatsby.js V2 starter template based on Hyperspace by HTML5 UP",
+  "description": "sell online, no commission",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/anubhavsrivastava/gatsby-starter-hyperspace.git"
+    "url": "git+https://github.com/maghin0/gen-z-foods"
   },
   "author": {
-    "name": "Anubhav Srivastava",
-    "email": "anubhav.srivastava00@gmail.com"
+    "name": "maghin",
+    "email": "tarek-maghin@outlook.com"
   },
   "dependencies": {
     "gatsby": "^2.20.29",
@@ -40,13 +40,13 @@
     "rimraf": "^2.6.3"
   },
   "keywords": [
-    "gatsby",
-    "gatsby-starter",
-    "gatsby-starter-hyperspace"
+    "service",
+    "restaurant",
+    "gen-z-foods"
   ],
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/anubhavsrivastava/gatsby-starter-hyperspace/issues"
+    "url": "https://github.com/maghin0/gen-z-foods/issues"
   },
-  "homepage": "https://github.com/anubhavsrivastava/gatsby-starter-hyperspace#readme"
+  "homepage": "https://github.com/maghin0/gen-z-foods"
 }

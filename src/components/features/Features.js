@@ -1,11 +1,12 @@
 import React from 'react';
 
-import pic1 from '../../images/pic01.png';
-import pic2 from '../../images/pic02.png';
-import pic3 from '../../images/pic03.png';
-import spic1 from '../../images/spic01.png';
-import spic2 from '../../images/spic02.png';
-import spic3 from '../../images/spic03.png';
+import pic1 from '../../images/pic01.jpg';
+import pic2 from '../../images/pic02.jpg';
+import pic3 from '../../images/pic03.jpg';
+import spic1 from '../../images/spic01.jpg';
+import spic2 from '../../images/spic02.jpg';
+import spic3 from '../../images/spic03.jpg';
+
 
 import Feature from './Feature';
 
