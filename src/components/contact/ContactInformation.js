@@ -10,7 +10,7 @@ const ContactInformation = () =>
        
        <a href="https://wa.me/201551030938 " target="_blank"
                         rel="noopener noreferrer" className=" fa-whatsapp fa-2x"> 
-                        <span style={{paddingLeft: 10, fontSize: "1.5rem"}} >(+20) 114-540-1948</span></a>
+                        <span style={{paddingLeft: 10, fontSize: "1.5rem"}} >(+20)1551030938</span></a>
       
       </li>
       </ul>
