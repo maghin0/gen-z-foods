@@ -33,7 +33,7 @@ Big portals like Otlob, Uber Eats, and Glovo take a hefty percentage of your onl
 <br />
       <h2 id="two"> Our Services</h2>
       <h2 >
-      Only < style={{color: "#041836"}}> 750EGP/month</a> for all our services!
+      Only <a style={{color: "#041836"}}> 750EGP/month</a> for all our services!
       </h2>
       <div className="features">
       
