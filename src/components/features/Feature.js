@@ -7,7 +7,7 @@ const Feature = ({href, image, simage, heading, description, to}) =>
     
     <picture>
     <a href={href}alt="image">
-  <source media="(min-width:650px)" srcset={image}/>
+  <source media="(min-width: 500px)" srcset={image}/>
   <img src={simage} alt="" data-position="center center"/>
   </a>
 </picture> 
