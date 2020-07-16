@@ -59,7 +59,7 @@
 
 	.wrapperlogo {
 	position: relative;
-	padding-bottom: 6em;
+	padding-bottom: 11em;
 	
 	}
 
@@ -72,10 +72,17 @@
 	.button.cta {
 	background-color:#0DD680;	
 	color: #041836 !important;
+	font-size: .7em;
+	margin-top: 5em;
 	}
 
 	.head {
 		-webkit-filter: drop-shadow(1px 3px 2px rgba(0, 0, 0, 0.6));
+		
+	}
+	.headsuccess {
+		
+		margin-left: 4em;
 	}
 
 	.video {
@@ -88,6 +95,9 @@
 			height: 800px;
 		}
 	}
-	
+	.imgcenter
+	{
+		padding-left: 23vw;
+	}
 	
 

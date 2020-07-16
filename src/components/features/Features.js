@@ -1,11 +1,12 @@
 import React from 'react';
 
-import pic1 from '../../images/pic01.png';
-import pic2 from '../../images/pic02.png';
-import pic3 from '../../images/pic03.png';
-import spic1 from '../../images/spic01.png';
-import spic2 from '../../images/spic02.png';
-import spic3 from '../../images/spic03.png';
+import pic1 from '../../images/pic01.jpg';
+import pic2 from '../../images/pic02.jpg';
+import pic3 from '../../images/pic03.jpg';
+import spic1 from '../../images/spic01.jpg';
+import spic2 from '../../images/spic02.jpg';
+import spic3 from '../../images/spic03.jpg';
+
 
 import Feature from './Feature';
 
@@ -15,8 +16,8 @@ const Features = () => {
       href: '/#',
       image: pic1,
       simage: spic1,
-      heading: 'Take orders from Facebook',
-      description: 'Engage and monetize your Facebook followers by allowing them to order directly on your Facebook page. Create an online ordering opportunity where your customers spend time.',
+      heading: 'Take orders from your site',
+      description: 'If you have a website, let your customers order directly from your own custom branded website. Turn your web traffic to loyal customers. We’ll take care of the heavy lifting by setting it all up for you.',
       to: {
         href: '/',
         label: 'Learn more',
@@ -37,8 +38,8 @@ const Features = () => {
       href: '/#',
       image: pic3,
       simage: spic3,
-      heading: 'Take orders from your site', 
-      description: 'If you have a website, let your customers order directly from your own custom branded website. Turn your web traffic to loyal customers. We’ll take care of the heavy lifting by setting it all up for you.',
+      heading: 'Monetize your social media followers', 
+      description: 'Engage and monetize your Facebook/Instagram followers by easily directing them from your Facebook page or Instagram account to order online. Create an online ordering opportunity where your customers are spending time.',
       to: {
         href: '/',
         label: 'Learn more',
