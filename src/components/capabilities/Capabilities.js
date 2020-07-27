@@ -17,7 +17,7 @@ Big portals like Otlob, Uber Eats, and Glovo take a hefty percentage of your onl
 <p>Here’s an example to show you how much more money you can make with gen z foods online ordering system. If you have an average order of 50 EGP, and you sell an average of 20 online orders per day, that means you’ll have a monthly revenue of 30,000 EGP. If you’re making those sales on platforms such as Otlob or Uber Eats, you’ll be giving them 9,000 EGP, leaving you with 21,000 EGP. However, if you’re making those online sales with gen z foods, you’ll only give us a flat monthly fee of 750 EGP, and keep 29,250 EGP. Which means you get to make 8,250 EGP more with gen z foods! </p>
 <br />
 <br/>
-<picture></picture>
+<picture>
    
    <source media="(min-width:1000px)" srcset={profit}/>
 
