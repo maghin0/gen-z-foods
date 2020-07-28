@@ -23,7 +23,7 @@ const ContactForm = () =>
          
         <h3>Email</h3>
         <a href="mailto:foodsgenz@gmail.com"  className="fa-mail-reply-all fa-2x">
-        <span style={{paddingLeft: 10, fontSize: "1.5rem"}}>foodsgenz@gmail.com</span>
+        <span style={{paddingLeft: 10, fontSize: "1.1rem"}}>foodsgenz@gmail.com</span>
         </a>
       </li>
       </ul>
